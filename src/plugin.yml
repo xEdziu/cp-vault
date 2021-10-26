@@ -1,0 +1,21 @@
+name: CPvault
+version: 0.2
+author: Adrian Goral & Dominik Pyka
+main: pl.goralpyka.cpvault.Main
+api-version: 1.16
+description: TEST
+commands:
+  hello:
+    alias: [hi]
+    description: Says hi!
+  bank:
+    alias: [acc]
+    description: Shows players bank account!
+  transfer:
+    description: (amount) (user) - transfer money between users!
+  gui:
+    description: Wybór zadania
+  gig:
+    description: Lista zadań od użytkowników
+  shop:
+    description: otwiera sklep
